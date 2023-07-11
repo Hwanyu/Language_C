@@ -1,3 +1,5 @@
+Greatest Common Divisor, Least Common Multiple
+
 #include<stdio.h>
 int main(void){
     int no1, no2, a, b, gcm;
